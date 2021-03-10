@@ -4,6 +4,7 @@ text-align: center;
 }
 aside
 {
+
     float: right;
     padding: 20px;
     color: black;
@@ -12,6 +13,7 @@ aside
 }
 article
 {
+    
     padding: 80px;
     background-color: rgb(139, 138, 138);
     text-align: left;

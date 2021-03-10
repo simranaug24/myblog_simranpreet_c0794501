@@ -6,7 +6,7 @@ background: linear-gradient(to top right, #006666 0%, #cc99ff 100%);
 aside
 {
     margin-top: 0%;
-    height: 1000px;
+    height: 700px;
     width: 30%;
     float: left;
     padding: 0px;
@@ -17,7 +17,7 @@ article
 {
     margin-top: 0%;
 
-    height: 1000px;
+    height: 700px;
     width: 70%;
     
     background: linear-gradient(to top right, #006666 0%, #cc99ff 100%);
@@ -26,6 +26,7 @@ article
     float: left;
     
 }
+
 
 nav
 {

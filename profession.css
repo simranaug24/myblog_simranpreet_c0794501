@@ -1,19 +1,25 @@
 body
 {
-text-align: center;
+text-align: center; 
+background: linear-gradient(to top right, #ff9966 0%, #cc99ff 100%);
 
 
 }
 aside
 {
-    float: right;
-    padding: 20px;
+    margin-top: 0%;
+    width: 18.3%;
+    height: 3340.8px;
+    float: left;
+    /* padding: 20px; */
     color: black;
     background: linear-gradient(to top right, #ff9966 0%, #cc99ff 100%);
 
 }
 article
 {
+    width: 69%;
+
     padding: 80px;
     background: linear-gradient(to top right, #ff9966 0%, #cc99ff 100%);
     text-align: left;
@@ -34,10 +40,10 @@ nav a
 float: left;
 display: block;
 color: blanchedalmond;
-text-align: center;
+/* text-align: center; */
 padding: 14px 20px;
-text-decoration: none;
-font-size: large;
+/* text-decoration: none; */
+font-size: large; 
 }
 article img {
     height:  250px;
