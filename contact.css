@@ -1,0 +1,45 @@
+body
+{
+text-align: center;
+}
+
+main
+{
+    padding: 80px;
+    background-color: rgb(255 ,252, 0);
+    /* text-align: left; */
+    color: black;
+     float:none;
+}
+
+nav
+{
+    overflow: hidden;
+    background-color: rgb(196, 193, 22);
+
+}
+nav a
+{
+float: left;
+display: block;
+color: rgb(8, 8, 8);
+text-align: center;
+padding: 14px 20px;
+text-decoration: none;
+font-size: large;
+}
+
+nav a:hover
+{
+background-color: #ddd;
+color: black;
+}
+footer
+{
+    background-color: rgb(196, 193, 22);
+    clear: right;
+    font-size: larger;
+    color: rgb(5, 5, 5);
+    display: block;
+    padding: 14px 20px;
+}
